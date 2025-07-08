@@ -1,0 +1,2 @@
+#!/home/kradus/.asdf/shims/node
+console.log("Hello world!")
